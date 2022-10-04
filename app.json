@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "OnTap",
+    "slug": "OnTap",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "OnTap"
+}
